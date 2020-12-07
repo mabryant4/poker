@@ -8,6 +8,17 @@ It can be played with 2-5 computer simulated players who are each given 5 cards.
 
 A function within the class which represents each player decides which cards to swap for new cards.
 
+## How to use
+1. Download the files in the repository and open them in a Python IDE (I used PyCharm).
+
+2. Ensure that the interpreter is set to Python 2.7, the deuces library is downloaded, and the working directory is the one containing the downloaded files.
+
+3. Run PyPokerMain.py and enter a number between 2 and 5 for the number of players.
+
+4. For each player, enter the exact name of the class, for example MarleeBryant and Student1.
+
+5. The final hand of cards and rank is displayed for each player, and the player with the lowest rank is the winner.
+
 ## Strategy
 The function I created in the class MarleeBryant follows a series of rules to hopefully achieve the best hand.
 
